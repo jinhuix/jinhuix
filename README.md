@@ -4,8 +4,7 @@
 
 Welcome to my Github page! I'm Cai Cai and I'm currently completing my undergraduate degree in Computer Science&Technology at Huazhong University of Science and Technology!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Imcaicai&show_icons=true&hide_border=true" />
 
 #### 🌱 Things I am currently working on: 
 - Finish my undergraduate degree  
@@ -18,7 +17,7 @@ Welcome to my Github page! I'm Cai Cai and I'm currently completing my undergrad
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Imcaicai&show_icons=true&hide_border=true" />
+	
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -29,4 +28,3 @@ Welcome to my Github page! I'm Cai Cai and I'm currently completing my undergrad
 
 </p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
