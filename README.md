@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Jinhuix</h1>
+<h1 align="center">Hi there! 👋 I'm Jasmine</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jinhuix&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
