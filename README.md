@@ -37,5 +37,5 @@
 
 
 ## 📫 Contact Me  
-- ✉️ **Email**: [jinhuix@gmail.com](mailto:jinhuix@gmail.com)  
+- ✉️ **Email**: [jinhuix123@gmail.com](mailto:jinhuix123@gmail.com)  
 - 🌍 **Personal Website**: [https://jinhuix.github.io/](https://jinhuix.github.io/)
